@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixwake Terms of Use</title>
+<style>
+  :root { --brand: #2F5BFF; --text: #1B1D24; --muted: #5B6070; --bg: #F6F7FA; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { color: var(--brand); margin-bottom: 4px; }
+  h2 { margin-top: 32px; font-size: 1.2rem; }
+  .muted { color: var(--muted); }
+  a { color: var(--brand); }
+</style>
+</head>
+<body>
+<main>
+<h1>Pixwake Terms of Use</h1>
+<p class="muted">Last updated: 6 November 2026</p>
+
+<p>By using Pixwake you agree to these terms.</p>
+
+<h2>1. Your photos</h2>
+<ul>
+  <li>Only upload photos that you took or have the right to use, and photos of people who agreed to it. For photos of children, you must be their parent or guardian.</li>
+  <li>Do not upload photos to harass, impersonate, deceive or embarrass anyone, or to create sexual, violent, hateful or illegal content.</li>
+  <li>You keep the rights to your photos. You give us permission to process them only to create your picture.</li>
+</ul>
+
+<h2>2. AI results</h2>
+<ul>
+  <li>Pictures are made by AI and may not be accurate. Do not present them as real photos of events that did not happen in a way that could mislead or harm someone.</li>
+  <li>You may use your results for personal purposes. Report anything offensive with "Report content" in the app.</li>
+</ul>
+
+<h2>3. Free use and ads</h2>
+<p>The app is free with daily limits. Some features unlock by watching an ad. Limits and features may change.</p>
+
+<h2>4. Availability</h2>
+<p>The service is provided "as is". We may change, pause or stop it at any time, and we are not liable for loss of creations stored on your phone.</p>
+
+<h2>5. Changes</h2>
+<p>We may update these terms. Continuing to use the app means you accept the updated terms.</p>
+
+<h2>6. Contact</h2>
+<p>Email: <a href="mailto:najamzaman848@gmail.com">najamzaman848@gmail.com</a></p>
+<p class="muted"><a href="index.html">Pixwake</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>
+</main>
+</body>
+</html>
