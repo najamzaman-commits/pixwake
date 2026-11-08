@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pixwake Privacy Policy</title>
+<style>
+  :root { --brand: #2F5BFF; --text: #1B1D24; --muted: #5B6070; --bg: #F6F7FA; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  h1 { color: var(--brand); margin-bottom: 4px; }
+  h2 { margin-top: 32px; font-size: 1.2rem; }
+  .muted { color: var(--muted); }
+  a { color: var(--brand); }
+</style>
+</head>
+<body>
+<main>
+<h1>Pixwake Privacy Policy</h1>
+<p class="muted">Last updated: 6 November 2026</p>
+
+<p>Pixwake ("we", "the app") turns a photo you choose into a new picture based on a template. This policy explains what data the app uses, why, and what choices you have.</p>
+
+<h2>1. Photos you add</h2>
+<ul>
+  <li>You choose a photo from your gallery (through the Android Photo Picker) or take one with the camera. The app only sees the photos you pick.</li>
+  <li>To create your picture, the photo is cropped to the face on your phone and sent over an encrypted connection to our server, which passes it to our image-generation provider, Runware. It is used only to make your picture.</li>
+  <li>We do not keep your photo on our servers, we do not use it to train AI models, and we do not use it to identify you. We do not create face templates or biometric identifiers.</li>
+  <li>For some templates our server checks whether the photo shows a man or a woman, only to choose the matching version of the template. The answer is not stored.</li>
+  <li>The finished picture is downloaded to your phone and saved in the app. You can delete it from "My Creations" at any time.</li>
+</ul>
+
+<h2>2. Data stored on our servers</h2>
+<ul>
+  <li>An anonymous ID created by Firebase Authentication (no name, email or phone number), your daily usage count, and a notification token so we can tell you when your picture is ready.</li>
+  <li>A record of each creation job (template, status and a link to the result). Job records are deleted automatically after 7 days.</li>
+</ul>
+
+<h2>3. Ads</h2>
+<p>The app shows ads from Google AdMob. AdMob may collect and use your device's advertising ID, IP address and app interaction data to show and measure ads. In the EEA, UK and Switzerland we ask for your consent first using Google's consent message. You can reset or delete your advertising ID in your phone's settings. Learn more in <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a>.</p>
+
+<h2>4. Analytics and crash reports</h2>
+<p>We use Firebase Analytics, Crashlytics and Performance Monitoring to understand app usage, fix crashes and improve speed. These services collect device information, app version, crash logs and usage events. They are not used to identify you.</p>
+
+<h2>5. Service providers</h2>
+<ul>
+  <li>Google Firebase (hosting, database, functions, authentication, analytics, crash reports, notifications)</li>
+  <li>Google AdMob (ads)</li>
+  <li>Runware (image generation)</li>
+</ul>
+<p>We do not sell your personal data.</p>
+
+<h2>6. Permissions</h2>
+<ul>
+  <li><strong>Camera</strong>: only when you tap "Take photo".</li>
+  <li><strong>Notifications</strong>: to tell you when your picture is ready.</li>
+  <li>The app does not ask for access to all your photos.</li>
+</ul>
+
+<h2>7. Children</h2>
+<p>Pixwake is not directed at children under 13. Parents may use baby and kids templates with photos of their own children; those photos are handled as described in section 1.</p>
+
+<h2>8. Your choices and deleting data</h2>
+<ul>
+  <li>Delete creations in the app, or clear the app's data or uninstall it to remove everything stored on your phone.</li>
+  <li>Server job records are deleted automatically after 7 days. To ask us to delete your anonymous account data sooner, email us at the address below.</li>
+</ul>
+
+<h2>9. Security</h2>
+<p>Data is encrypted in transit (HTTPS). Access to our servers is restricted.</p>
+
+<h2>10. Changes</h2>
+<p>If we change this policy, we will update the date above and, for important changes, tell you in the app.</p>
+
+<h2>11. Contact</h2>
+<p>Email: <a href="mailto:najamzaman848@gmail.com">najamzaman848@gmail.com</a></p>
+<p class="muted"><a href="index.html">Pixwake</a> · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>
+</main>
+</body>
+</html>
